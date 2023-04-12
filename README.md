@@ -1,6 +1,8 @@
 # Explode-this-baloon-42-school
 
-SUBJECT 42SCHOOL EXPLODE THIS BALOON:
+👩🏻‍💻 My Baloon project -->
+
+🔥 SUBJECT 42SCHOOL EXPLODE THIS BALOON:
 
 Create in HTML/CSS a div 200px by 200px with a red background color. The bor-
 ders will be rounded to create a perfect round shape and not a square anymore. That
@@ -16,3 +18,5 @@ Usually, this type of balloon is rather resistant but if its size becomes greate
 Small additional detail, when the mouse is in the balloon and leaves it, the size of the
 balloon shrinks by 5px (the size of the balloon cannot go lower than 200px) and its color
 changes in the reverse order than mentioned earlier.
+
+💻 HTML CSS JAVASCRIPT
